@@ -1,29 +1,21 @@
 # vue-covid-tracker
 
-## Project setup
-```
-npm install
-```
+This VueJS application to create a page showing covid data worldwide.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Features
 
-### Run your unit tests
-```
-npm run test:unit
-```
+- :heavy_check_mark: **Vue.Js** — A a progressive framework for building user interfaces.
+- :heavy_check_mark: **Vue-Router** — Vue Router is the official router for Vue.js.
+- :heavy_check_mark: **Vuetify** — Vue UI Library with beautifully handcrafted Material Components.
+- :recycle: **Vuex** — A state management pattern + library for Vue.js applications.
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Some Observations about this project
+This project is part of my personal portfolio, I'm trying improve my skills, so, I'll be happy if you could provide me any feedback about the project.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+You can report that could make me a better developer!
+
+E-mail:dreybarros@gmail.com
+
+Connect with me at Linkedin: https://www.linkedin.com/in/andreyev-silva-b37063157/
