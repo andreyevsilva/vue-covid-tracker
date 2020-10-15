@@ -5,7 +5,7 @@ This VueJS application to create a page showing covid data worldwide.
 
 # Features
 
-- :heavy_check_mark: **Vue.Js** — A a progressive framework for building user interfaces.
+- :heavy_check_mark: **Vue.js** — A a progressive framework for building user interfaces.
 - :heavy_check_mark: **Vue-Router** — Vue Router is the official router for Vue.js.
 - :heavy_check_mark: **Vuetify** — Vue UI Library with beautifully handcrafted Material Components.
 - :recycle: **Vuex** — A state management pattern + library for Vue.js applications.
