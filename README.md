@@ -1,7 +1,7 @@
 # vue-covid-tracker
 
 This VueJS application to create a page showing covid data worldwide.
-
+[Imgur](https://i.imgur.com/w8eEIbG.png)
 <p align="center>
   <img src="https://i.imgur.com/wPZcyaz.png"/>
 </p>
