@@ -3,7 +3,7 @@
 This VueJS application to create a page showing covid data worldwide.
 
 <p align="center>
-  [Imgur](https://i.imgur.com/wPZcyaz.png)
+  <img src="https://i.imgur.com/wPZcyaz.png"/>
 </p>
 
 
