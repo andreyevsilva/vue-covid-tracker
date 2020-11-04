@@ -2,10 +2,11 @@
 
 This VueJS application to create a page showing covid data worldwide.
 
-<p align="center>
-  <img src="https://i.imgur.com/wPZcyaz.png?1"/>
-</p>
+# World
+![Imgur Image](https://i.imgur.com/wPZcyaz.png)
 
+# Country
+![Imgur Image](https://i.imgur.com/w8eEIbG.png)
 
 # Features
 
