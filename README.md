@@ -2,6 +2,9 @@
 
 This VueJS application to create a page showing covid data worldwide.
 
+# Demo
+https://vue-covid-tracker.netlify.app
+
 # World
 ![Imgur Image](https://i.imgur.com/wPZcyaz.png)
 
